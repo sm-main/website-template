@@ -1,0 +1,12 @@
+@media all and (max-width: 835px)
+{
+	.wrapper
+	{
+		flex-wrap:wrap;
+	}
+	.bigBox img 
+	{
+     height: 205px;
+      width: 100%;
+     }
+}
